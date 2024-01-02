@@ -10,3 +10,8 @@ docker-compose up
 ```bash
 docker-compose -f ./PostgreSQL/docker-compose.yml up
 ```
+
+# Access Adminer
+- Go to `http://localhost:8080` to access Adminer portal.
+- Enter respective credentials after selecting system as `PostgreSQL` and click login
+- You are connected to postgresql GUI and good to go now!
