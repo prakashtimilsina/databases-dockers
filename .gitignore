@@ -2,5 +2,6 @@
 ../data/
 PostgreSQL/data
 PostgreSQL/data/db
+MongoDB/test.js
 /Users/prakashtimilsina/Documents/Learning/databases-dockers/PostgreSQL/data
 /Users/prakashtimilsina/Documents/Learning/databases-dockers/PostgreSQL/data/db
