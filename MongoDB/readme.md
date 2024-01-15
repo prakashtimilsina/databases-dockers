@@ -1,6 +1,6 @@
 # Start Local mongodb
 
-## When `docker-compose.yml` is ready and in the root folder i.e. inside MongoDB directory
+## When `docker-compose.yml` is ready and in the root folder i.e. inside MongoDB directory.
 
 ```bash
 docker-compose up
